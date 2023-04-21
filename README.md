@@ -1,9 +1,9 @@
-﻿
+![Header](./Github-Banner-Image.png)
 <h3 align="center">Data Structures and Algorithms | Front-End Development | Applied Machine Learning | SQL Developer | Amazon Web Services </h3>
 
 <h2>💫 About Me</h2>
 <h4 align="justify">Hi, I'm an undergrad student pursuing Bachelors in Computer Science. I'm always passionate about problem solving and loves to actively involve in sharing knowledge and ideas. 
-</h4><hr>
+</h4>
 
 🌱 I'm currently learning MERN Stack development and Deep Learning.
 
@@ -28,6 +28,7 @@
 <h2 align="left">🖥️ Technology Stack</h2>
 
 <h4 align="left"> Strong area</h4>
+<p>
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c"/>
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"/>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/>
@@ -76,3 +77,4 @@
 |-----------|-------------|
 |<img src="https://github-readme-streak-stats.herokuapp.com/?user=meet2632&theme=great-gatsby" width="500" height="250">|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meet2632&theme=great-gatsby&langs_count=5">|
 ![](https://github-readme-stats.vercel.app/api?username=meet2632&theme=great-gatsby&show_icons=true)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=meet2632&theme=merko)
