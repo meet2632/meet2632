@@ -1,4 +1,4 @@
-![Header](./)
+![Header](./Github-Header.png)
 <h3 align="center">Data Structures and Algorithms | Front-End Development | Applied Machine Learning | SQL Developer | Amazon Web Services </h3>
 
 <h2>💫 About Me</h2>
