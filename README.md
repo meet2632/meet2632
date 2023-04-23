@@ -13,11 +13,15 @@
 
 ## 💬 Reach Me
 <p>
-<a href="https://www.linkedin.com/meetposhia" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="https://www.linkedin.com/in/meetposhia" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+</a>
 <a href="mailto:meetid1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
-<a href="https://www.instagram.com/the.real.meeet" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram"/></a>
-<a href="https://twitter.com/meetposhia" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="twitter"/></a>
-<a href="https://leetcode.com/meet2632" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="leetcode"/></a>
+<a href="https://www.instagram.com/the.real.meeet" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram"/>
+</a>
+<a href="https://twitter.com/meetposhia" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="twitter"/>
+</a>
+<a href="https://leetcode.com/meet2632" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="leetcode"/>
+</a>
 </p>
 
 ![](https://visitcount.itsvg.in/api?id=meet2632&label=Profile%20Views&color=3&icon=0&pretty=false)
