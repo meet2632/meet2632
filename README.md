@@ -5,7 +5,7 @@
 <h4 align="justify">Hi, I'm an undergrad student pursuing Bachelors in Computer Science. I'm always passionate about problem solving and loves to actively involve in sharing knowledge and ideas. 
 </h4>
 
-🌱 I'm currently learning MERN Stack development and Deep Learning.
+🌱 I'm currently learning MERN Stack development and focusing on problem solving.
 
 📫 Alternatively, you can reach me at : <a href="mailto:meetid1@gmail.com">My Email</a>
 
