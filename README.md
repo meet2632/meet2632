@@ -1,5 +1,5 @@
 ![Header](./Github-Header.png)
-<h3 align="center">Data Structures and Algorithms | Front-End Development | Applied Machine Learning | SQL Developer | AWS </h3>
+<h3 align="center">Data Structures and Algorithms | Full-Stack Developer | Applied Machine Learning | SQL Developer | AWS </h3>
 
 <h2>💫 About Me</h2>
 <h4 align="justify">Hi, I'm an undergrad student pursuing Bachelors in Computer Science. I'm always passionate about problem solving and loves to actively involve in sharing knowledge and ideas. 
