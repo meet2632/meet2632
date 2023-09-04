@@ -2,25 +2,16 @@
 <h3 align="center">Data Structures and Algorithms | Full-Stack Developer | Applied Machine Learning | SQL Developer | AWS </h3>
 
 <h2>💫 About Me</h2>
-<h4 align="justify">Hi, I'm an undergrad student pursuing Bachelors in Computer Science. I'm always passionate about problem solving and loves to actively involve in sharing knowledge and ideas. 
+<h4 align="justify">Hi, I'm a final year student pursuing Bachelors in Computer Science. I'm always passionate about problem solving and loves to involve in sharing knowledge and ideas. 
 </h4>
 
 🌱 I'm currently learning MERN Stack, Data Scraping and Data Structures with problem solving.
-
-📫 Alternatively, you can reach me at : <a href="mailto:meetid1@gmail.com">My Email</a>
-
-👨‍💻 All of my projects are available at : https://github.com/meet2632
 
 ## 💬 Reach Me
 <p>
 <a href="https://www.linkedin.com/in/meetposhia" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
-<a href="mailto:meetid1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
-<a href="https://www.instagram.com/whoaskedmeet" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram"/>
-</a>
-<a href="https://twitter.com/meetposhia" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="twitter"/>
-</a>
-<a href="https://leetcode.com/meet2632" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="leetcode"/>
+<a href="mailto:meetid1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
 </a>
 </p>
 
@@ -57,7 +48,6 @@
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/>
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
 <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="matplotlib"/>
-<img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="plotly"/>
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="sklearn"/>
 </p>
 
