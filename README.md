@@ -2,10 +2,8 @@
 <h3 align="center">Data Structures and Algorithms | Full-Stack Development | Applied Machine Learning | SQL | AWS </h3>
 
 <h2>💫 About Me</h2>
-<h4 align="justify">Hi, I'm a final year student pursuing Bachelors in Computer Science. I'm always passionate about problem solving and loves to involve in sharing knowledge and ideas. 
+<h4 align="justify">🌱 Hi, I'm a final year student pursuing Bachelors in Computer Science. I'm always passionate about problem solving and loves to involve in sharing knowledge and ideas. 
 </h4>
-
-🌱 I'm currently learning MERN Stack, Data Scraping and Data Structures with problem solving.
 
 ## 💬 Reach Me
 <p>
