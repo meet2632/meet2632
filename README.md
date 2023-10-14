@@ -5,7 +5,7 @@
 <h4 align="justify">🌱 Hi, I'm a final year student pursuing Bachelors in Computer Science. I'm always passionate about problem solving and loves to involve in sharing knowledge and ideas. 
 </h4>
 
-## 💬 Reach Me
+## 💬 Connect with Me
 <p>
 <a href="https://www.linkedin.com/in/meetposhia" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
