@@ -13,8 +13,6 @@
 </a>
 </p>
 
-![](https://visitcount.itsvg.in/api?id=meet2632&label=Profile%20Views&color=3&icon=0&pretty=false)
-
 
 <p>
 <h2 align="left">🖥️ Technology Stack</h2>
