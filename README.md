@@ -1,8 +1,8 @@
 ![Header](./Github-Header.png)
-<h3 align="center"> Full-Stack Developer | Applied Machine Learning | SQL | AWS </h3>
+<h3 align="center"> DevOps | Data Analytics | Software Development | Business Analysis |  </h3>
 
 <h2>💫 About Me</h2>
-<h4 align="justify">🌱 Hi, I'm a final year student pursuing Bachelors in Computer Science. I'm always passionate about problem solving and loves to involve in sharing knowledge and ideas. 
+<h4 align="justify">🌱 Hi, I'm a Computer Science graduate from PDEU University, Gandhinagar, India and currently working in Reliance Industries Ltd. at Navi Mumbai Reliance Corporate Park. I'm always passionate about problem solving and loves to involve in sharing knowledge and ideas. 
 </h4>
 
 ## 💬 Connect with Me
