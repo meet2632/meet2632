@@ -2,7 +2,7 @@
 <h3 align="center"> DevOps | Cloud Development | Software Development | Data & Business Analysis </h3>
 
 <h2>💫 About Me</h2>
-<h4 align="justify">🌱 Hey, I'm a Computer Science graduate from PDEU University, India and currently working in Reliance Industries Ltd. at Navi Mumbai in Reliance Corporate Park. I've a deep keen in exploring and working in Cloud Development and Operations, especially the toolkit working around DevOps.
+<h4 align="justify">🌱 Hey, I'm a Computer Science graduate from PDEU University, India and currently working in Reliance Industries Ltd. at Navi Mumbai in Reliance Corporate Park. I am  very keen in exploring and working in Cloud Development and Operations, especially the toolkit working around DevOps.
 </h4>
 
 ## 💬 Connect with Me
