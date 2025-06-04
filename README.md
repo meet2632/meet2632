@@ -1,4 +1,5 @@
-![Header](./Github-Header.png)
+![Header](./Github_Header_img.gif)
+
 <h3 align="center"> DevOps | Cloud Development | Software Development | Data & Business Analysis </h3>
 
 <h2>💫 About Me</h2>
